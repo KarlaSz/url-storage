@@ -1,6 +1,7 @@
 # URL Storage DB
 
 Storage is a simple Python script that allows you to manage URL addresses in an SQLite database for example DBeaver. The project enables creating a table in the database, adding new URLs, and displaying a list of links based on categories.
+![Screenshot_3](https://github.com/user-attachments/assets/5c30c409-961a-44ea-9ce2-abb3231fd232)
 
 ## Requirements
 
